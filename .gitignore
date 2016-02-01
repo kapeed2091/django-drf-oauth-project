@@ -1,0 +1,38 @@
+# Vim
+*~
+*.swp
+*.swo
+
+# Basics
+*.pyc
+__pycache__
+
+# Pycharm
+.idea/
+
+.vagrant/
+
+# Eclipse
+.project
+.pydevproject
+
+# Database Data
+db.sqlite3
+.dbdata/
+dump.rdb
+
+.settings/
+
+# Virtual Environment
+.venv/
+
+# Coverage
+.coverage
+
+# Ipython Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+.DS_Store
+
+sftp-config.json
